@@ -44,6 +44,28 @@
             "href": "https://raw.githubusercontent.com/dhis2/dhis2-metadata-repo/master/repo/26/trainingland-org-units/metadata.json"
         }]
     }, {
+                "id": "training-land-org-units",
+        "name": "Immunization",
+        "organization": "UiO",
+        "description": "Morbidity",
+        "url": "http://www.uio.no",
+        "icons": [{
+            "48": "http://www.uio.no/om/designmanual/images/1-2-logo-universitetet-i-oslo.jpg",
+            "128": "https://raw.githubusercontent.com/knutst/dhis2-metadata-repo/master/repo/27/icons/immunization.png"
+        }],
+        "license": {
+            "name": "Creative commons",
+            "url": "https://creativecommons.org/licenses/by/4.0/"
+        },
+        "tags": [
+            "Training",
+            "Dashboards"
+        ],
+        "versions": [{
+            "version": "0.2",
+            "href": "https://raw.githubusercontent.com/dhis2/dhis2-metadata-repo/master/repo/26/trainingland-org-units/metadata.json"
+        }]
+    }, {
         "id": "sims-data-elements",
         "name": "Malaria",
         "organization": "UiO",
