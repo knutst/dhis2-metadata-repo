@@ -3,11 +3,11 @@
         "id": "sierre-leone-demo",
         "name": "Sierra Leone demo",
         "organization": "UiO",
-        "description": "Sierra Leone demo database TZT",
+        "description": "Mortality",
         "url": "http://www.uio.no",
         "icons": [{
             "48": "https://raw.githubusercontent.com/knutst/dhis2-metadata-repo/master/repo/27/icons/early_warning.png",
-            "128": "https://raw.githubusercontent.com/knutst/dhis2-metadata-repo/master/repo/27/icons/early_warning.png"
+            "128": "https://raw.githubusercontent.com/knutst/dhis2-metadata-repo/master/repo/27/icons/mortality.png"
         }],
         "license": {
             "name": "Creative commons",
@@ -25,11 +25,11 @@
         "id": "training-land-org-units",
         "name": "Trainingland organisation units",
         "organization": "UiO",
-        "description": "Trainingland organisation units",
+        "description": "Morbidity",
         "url": "http://www.uio.no",
         "icons": [{
             "48": "http://www.uio.no/om/designmanual/images/1-2-logo-universitetet-i-oslo.jpg",
-            "128": "http://www.uio.no/om/designmanual/images/1-2-logo-universitetet-i-oslo.jpg"
+            "128": "https://raw.githubusercontent.com/knutst/dhis2-metadata-repo/master/repo/27/icons/morbidity.png"
         }],
         "license": {
             "name": "Creative commons",
@@ -45,13 +45,13 @@
         }]
     }, {
         "id": "sims-data-elements",
-        "name": "SIMS data elements",
+        "name": "Malaria",
         "organization": "UiO",
         "description": "SIMS data elements",
         "url": "http://www.uio.no",
         "icons": [{
             "48": "http://www.uio.no/om/designmanual/images/1-2-logo-universitetet-i-oslo.jpg",
-            "128": "http://www.uio.no/om/designmanual/images/1-2-logo-universitetet-i-oslo.jpg"
+            "128": "https://raw.githubusercontent.com/knutst/dhis2-metadata-repo/master/repo/27/icons/malaria.png"
         }],
         "license": {
             "name": "Creative commons",
