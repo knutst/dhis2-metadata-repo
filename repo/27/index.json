@@ -1,7 +1,7 @@
 {
     "packages": [{
         "id": "sierre-leone-demo",
-        "name": "Sierra Leone demo",
+        "name": "Mortality",
         "organization": "UiO",
         "description": "Mortality",
         "url": "http://www.uio.no",
@@ -23,7 +23,7 @@
         }]
     }, {
         "id": "training-land-org-units",
-        "name": "Trainingland organisation units",
+        "name": "Morbidity",
         "organization": "UiO",
         "description": "Morbidity",
         "url": "http://www.uio.no",
