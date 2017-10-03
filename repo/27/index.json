@@ -1,12 +1,12 @@
 {
     "packages": [{
-        "id": "sierre-leone-demo",
+        "id": "mortality",
         "name": "Mortality",
-        "organization": "UiO",
+        "organization": "WHO",
         "description": "Mortality",
-        "url": "http://www.uio.no",
+        "url": "http://www.who.int",
         "icons": [{
-            "48": "https://raw.githubusercontent.com/knutst/dhis2-metadata-repo/master/repo/27/icons/early_warning.png",
+            "48": "https://raw.githubusercontent.com/knutst/dhis2-metadata-repo/master/repo/27/icons/mortality.png",
             "128": "https://raw.githubusercontent.com/knutst/dhis2-metadata-repo/master/repo/27/icons/mortality.png"
         }],
         "license": {
@@ -22,13 +22,13 @@
             "href": "https://raw.githubusercontent.com/dhis2/dhis2-metadata-repo/master/repo/26/sierra-leone-demo/metadata.json"
         }]
     }, {
-        "id": "training-land-org-units",
+        "id": "morbidity",
         "name": "Morbidity",
-        "organization": "UiO",
+        "organization": "WHO",
         "description": "Morbidity",
-        "url": "http://www.uio.no",
+        "url": "http://www.who.int",
         "icons": [{
-            "48": "http://www.uio.no/om/designmanual/images/1-2-logo-universitetet-i-oslo.jpg",
+            "48": "https://raw.githubusercontent.com/knutst/dhis2-metadata-repo/master/repo/27/icons/morbidity.png",
             "128": "https://raw.githubusercontent.com/knutst/dhis2-metadata-repo/master/repo/27/icons/morbidity.png"
         }],
         "license": {
@@ -44,13 +44,13 @@
             "href": "https://raw.githubusercontent.com/dhis2/dhis2-metadata-repo/master/repo/26/trainingland-org-units/metadata.json"
         }]
     }, {
-                "id": "training-land-org-units",
+                "id": "immunization",
         "name": "Immunization",
-        "organization": "UiO",
+        "organization": "WHO",
         "description": "Morbidity",
-        "url": "http://www.uio.no",
+        "url": "http://www.who.int",
         "icons": [{
-            "48": "http://www.uio.no/om/designmanual/images/1-2-logo-universitetet-i-oslo.jpg",
+            "48": "https://raw.githubusercontent.com/knutst/dhis2-metadata-repo/master/repo/27/icons/immunization.png",
             "128": "https://raw.githubusercontent.com/knutst/dhis2-metadata-repo/master/repo/27/icons/immunization.png"
         }],
         "license": {
@@ -68,11 +68,11 @@
     }, {
         "id": "sims-data-elements",
         "name": "Malaria",
-        "organization": "UiO",
-        "description": "SIMS data elements",
-        "url": "http://www.uio.no",
+        "organization": "WHO",
+        "description": "Malaria",
+        "url": "http://www.who.int",
         "icons": [{
-            "48": "http://www.uio.no/om/designmanual/images/1-2-logo-universitetet-i-oslo.jpg",
+            "48": "https://raw.githubusercontent.com/knutst/dhis2-metadata-repo/master/repo/27/icons/malaria.png",
             "128": "https://raw.githubusercontent.com/knutst/dhis2-metadata-repo/master/repo/27/icons/malaria.png"
         }],
         "license": {
