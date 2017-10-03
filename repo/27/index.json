@@ -6,8 +6,8 @@
         "description": "Sierra Leone demo database TZT",
         "url": "http://www.uio.no",
         "icons": [{
-            "48": "http://www.uio.no/om/designmanual/images/1-2-logo-universitetet-i-oslo.jpg",
-            "128": "http://www.uio.no/om/designmanual/images/1-2-logo-universitetet-i-oslo.jpg"
+            "48": "https://raw.githubusercontent.com/knutst/dhis2-metadata-repo/master/repo/27/icons/early_warning.png",
+            "128": "https://raw.githubusercontent.com/knutst/dhis2-metadata-repo/master/repo/27/icons/early_warning.png"
         }],
         "license": {
             "name": "Creative commons",
